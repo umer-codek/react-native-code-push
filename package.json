@@ -12,6 +12,14 @@
   ],
   "author": "Microsoft Corporation",
   "license": "MIT",
+  "codegenConfig": {
+    "name": "CodePush",
+    "type": "modules",
+    "jsSrcsDir": "src",
+    "android": {
+      "javaPackageName": "com.microsoft.codepush.react"
+    }
+  },
   "scripts": {
     "clean": "shx rm -rf bin",
     "setup": "npm install --quiet --no-progress",
