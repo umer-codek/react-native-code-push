@@ -57,6 +57,7 @@
     "mkdirp": "latest",
     "mocha": "^9.2.0",
     "q": "^1.5.1",
+    "react-native": "^0.80.1",
     "run-sequence": "latest",
     "shx": "^0.3.4",
     "slash": "^3.0.0",
